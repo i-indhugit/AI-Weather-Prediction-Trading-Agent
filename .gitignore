@@ -1,0 +1,44 @@
+# ─── Environment & Secrets ──────────────────────────────────
+.env
+*.db
+*.sqlite
+*.sqlite3
+
+# ─── Python ─────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ─── Logs ───────────────────────────────────────────────────
+logs/
+*.log
+*.log.gz
+
+# ─── IDE / Editor ───────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── Testing / Cache ───────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ─── OS ─────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─── Virtual Environments ──────────────────────────────────
+venv/
+.venv/
+env/
+
+# ─── Misc ───────────────────────────────────────────────────
+task.md
