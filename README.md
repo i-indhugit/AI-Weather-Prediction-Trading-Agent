@@ -330,10 +330,3 @@ logs         (id, level, agent, message, timestamp)
 
 ---
 
-## License
-
-MIT — free to use for educational and assessment purposes.
-
----
-
-*Built with ❤️ for production-grade internship assessment.*
